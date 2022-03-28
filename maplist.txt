@@ -305,6 +305,7 @@ deadly-race
 deadthings
 death
 death-mission
+deathmatch-classic
 deathroll-puzzle
 deathrun-droide
 decay
