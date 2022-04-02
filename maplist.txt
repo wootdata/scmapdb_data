@@ -668,6 +668,7 @@ landworld
 last-castle
 last-stand
 last-unic
+lavaking
 legend-of-zelda
 leprechaun
 levelkas-2
