@@ -788,6 +788,7 @@ nopossibility
 normall
 nuclear
 nuclear-poison
+nuclear-winter
 nuearth
 nuke
 oberon
