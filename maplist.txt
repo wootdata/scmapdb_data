@@ -429,6 +429,7 @@ forgotten-secret-lab
 fort-gorgon
 fortified-1:assault-on-death-station
 fortress
+fox-s-island
 fracture
 frag-training
 fragers-rock
