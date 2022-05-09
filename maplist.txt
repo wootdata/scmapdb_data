@@ -247,7 +247,9 @@ contact
 contra
 coop-1
 crablegs
+crack-crossfire
 crack-life
+cracklife-2
 crash
 craxnhax
 crazy-jump
