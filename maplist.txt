@@ -667,7 +667,6 @@ lab
 lab-arena
 labflee
 labra-x25
-lab-ze-letonguev2
 land-of-legends
 landing
 landpiece
@@ -678,7 +677,10 @@ last-unic
 lavaking
 legend-of-zelda
 leprechaun
+letongue-apocalypse
+lab-ze-letonguev2
 ze-letonguesc-slaughter-v2
+pe-letonguesc-undergruond
 levelkas-2
 lexm
 liberation
@@ -843,7 +845,6 @@ party-2
 party-3
 peaces-like-us
 peany-world
-pe-letonguesc-undergruond
 penis-island
 penis-island-2:gullivers-adventure
 persia
