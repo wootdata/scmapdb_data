@@ -970,6 +970,7 @@ resurgence
 retrieval
 retrohunt
 return-to-kalike
+reverse-they-hunger
 reverse-turret-fortress
 reviviscence
 rhapsody
