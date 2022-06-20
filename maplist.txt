@@ -533,6 +533,7 @@ half-life-lobby
 half-life:uplink
 half-pipe
 half-quake-amen-coop
+half-rats:a-fever-dream
 halloween-blackwoods
 halloween-cemetery
 halloween-construction
