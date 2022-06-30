@@ -541,6 +541,7 @@ halloween-hospital
 halo
 hammerhead
 hamsters
+haphazard
 haunted
 haunted-souls-a
 haywire
