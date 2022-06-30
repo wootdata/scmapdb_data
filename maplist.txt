@@ -1340,6 +1340,7 @@ undeath
 opposing-force:under-the-black-moon
 underground
 sc-underground
+underhalls
 underrain
 underworld
 unholy
