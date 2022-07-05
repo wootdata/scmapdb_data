@@ -896,6 +896,7 @@ pvp-ag-crossfire-2-and-4
 pvp-assault
 pvp-awp-map
 pvp-aztec
+pvp-caged
 pvp-conflict-2
 pvp-crossfirebytimber
 pvp-dust2
