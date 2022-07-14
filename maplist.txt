@@ -709,7 +709,6 @@ majicidal-maze
 mako
 mana-house
 man-s-answer
-ruin-of-yas
 marines
 mario-keys
 marioland-escape
@@ -1002,6 +1001,7 @@ royal-soldier-s-zombie-survival
 sc-tl-rpg-v1-final-v4
 rrrrrrrrr
 rabid-snarks-votemap
+ruin-of-yas
 run3
 runandgun
 runforfreedom
