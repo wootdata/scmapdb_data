@@ -211,6 +211,7 @@ central-bunker
 central-bunker-remake
 chancars
 charlie-and-the-chocolate-factory
+kozmic
 chess
 chillplace-v1337
 chillplace-v2
@@ -658,7 +659,6 @@ killer-s-castle
 killer-s-part-maps
 king-kong-2
 koti
-kozmic
 ksct
 ksct-remake
 ktivt
