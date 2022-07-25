@@ -551,6 +551,7 @@ headcrabs-maze
 hq
 heat
 hw-zombie
+hedgy-s-challenges
 heist
 heli-small
 hellbound
