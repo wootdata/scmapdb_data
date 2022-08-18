@@ -276,6 +276,7 @@ crystal
 pvp-city
 cube-zero
 sven-party
+cyberjunk
 cybernetic-moon
 cyberspy
 cybertech-elevator
