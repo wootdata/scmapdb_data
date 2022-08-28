@@ -247,6 +247,7 @@ commandandconquer
 complex
 complex-perfect
 conect
+confuse
 conspiracy
 contact
 contra
