@@ -266,9 +266,6 @@ crazylab
 crisis-1
 crisis-2
 crood-coop
-crossedpaths1
-crossed-paths-2:freight-yard
-crossed-paths-3:apex
 crossed-paths:the-complete-series
 crusader-5
 crusades
