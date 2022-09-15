@@ -976,6 +976,7 @@ resistance
 ressya-no-tabi-the-train-travel
 restriction
 resurgence
+retard
 retrieval
 retrohunt
 return-to-kalike
