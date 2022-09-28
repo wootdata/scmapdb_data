@@ -589,6 +589,7 @@ hotline-svencoop
 hs-desertstorm-zombie-scenario-map-1
 human-grunts
 hunger
+hunt-the-cunt
 hunt-the-haunt
 hunted
 hyppyriz
