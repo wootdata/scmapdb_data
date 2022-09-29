@@ -519,6 +519,7 @@ greysnake-2
 grunt-wars
 grunts
 grunts-2
+grunt-s-course
 grunts-invade
 gruntwar
 gruntwar-2
