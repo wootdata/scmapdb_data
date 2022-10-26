@@ -263,6 +263,7 @@ crazy-maze
 crazyteleport
 crazy-walker
 crazylab
+crime-city
 crisis-1
 crisis-2
 crood-coop
