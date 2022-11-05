@@ -159,6 +159,7 @@ blastcorpse
 cs-blitzwar
 bluecell-puzzle
 bmtcoop
+bomberman-64
 boomario-pacman
 bootleg-squadrog
 boredgasm
