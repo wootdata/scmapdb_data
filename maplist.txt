@@ -32,6 +32,7 @@ aemos
 aerial-contact
 aerodock-1
 affliction
+afk-world
 afraid-of-monsters:director-s-cut
 afrika-korps
 afrika-korps-bonus
