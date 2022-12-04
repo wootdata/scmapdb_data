@@ -943,6 +943,7 @@ ragemap-2018
 ragemap-2019
 ragemap-2020
 ragemap-2021
+ragemap-2022
 ragemap-3
 rain-forest
 rampage
