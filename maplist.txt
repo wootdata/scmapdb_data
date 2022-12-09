@@ -215,6 +215,7 @@ chancars
 charlie-and-the-chocolate-factory
 chenbox
 chess
+chill-ride
 chillplace-v1337
 chillplace-v2
 choose
@@ -380,6 +381,7 @@ dyg-training-ground
 dymar
 dymar-surfing
 dynamic-mapvote
+dynamic-mapvote-xmas
 earth-garden
 earthquake-test-center
 earthquake-test-center-ii
@@ -515,6 +517,7 @@ gosu
 grapple-jumps
 great-big-white-world
 green-dream
+green-screen
 greencell
 greybox
 greysnake
