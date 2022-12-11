@@ -381,7 +381,6 @@ dyg-training-ground
 dymar
 dymar-surfing
 dynamic-mapvote
-dynamic-mapvote-xmas
 earth-garden
 earthquake-test-center
 earthquake-test-center-ii
