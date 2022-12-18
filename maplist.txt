@@ -582,6 +582,7 @@ hldm-co-op-carnage:crossfire
 hlm-mission
 cs-hokkaido
 hold-the-line
+hollywood-holocaust
 holodeck
 horde
 horde-22
