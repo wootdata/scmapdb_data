@@ -1118,6 +1118,7 @@ sniper4
 sniperwar
 sniperwar-xmas
 snow-adventure
+snowball-2022
 snowday
 soccer
 soiled
