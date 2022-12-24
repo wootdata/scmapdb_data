@@ -391,6 +391,7 @@ half-life:echoes
 edificio-aislado
 egypt
 egypt-2
+e-lab-orate
 enclosures
 endless-rain
 endless-rain-2
@@ -542,6 +543,7 @@ halflifuro
 half-life-bar-canteen
 half-life-hazard-course
 half-life-lobby
+stackdeath-complex
 half-life:uplink
 half-pipe
 half-quake-amen-coop
@@ -1430,6 +1432,7 @@ xenia
 xenomorphic
 xenwar-part-1
 xootixz
+x-treme-violence
 ya-control
 ya-emperor-barney
 yabma
