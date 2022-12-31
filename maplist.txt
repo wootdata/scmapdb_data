@@ -161,6 +161,7 @@ cs-blitzwar
 bluecell-puzzle
 bmtcoop
 bomberman-64
+bomberman-battles
 boomario-pacman
 bootleg-squadrog
 boredgasm
@@ -1235,6 +1236,7 @@ technium
 teleporter-down
 tension
 terminator-run
+test-map-0905
 tetris
 tetris:fan-chapter
 the-back-door
