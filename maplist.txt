@@ -770,7 +770,6 @@ kr-mine-defence
 minecraft
 mini-golf
 mini-race
-mini-mesa-escape
 minimicus-2017
 minotaur-maze
 mirage
