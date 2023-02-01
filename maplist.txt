@@ -589,6 +589,7 @@ hlm-mission
 cs-hokkaido
 hold-the-line
 holodeck
+hopelessness
 horde
 horde-22
 horror-1
