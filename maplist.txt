@@ -172,6 +172,7 @@ bossrush
 bot-party
 bot-race
 bounty
+boxjump
 box-store
 braindrain
 break-go:game-over
@@ -233,6 +234,7 @@ civil-defence
 ck-osprey
 ck-stadium
 classic-arcade-first-person-shooter
+tdm-classicdawn
 cliffside
 climbers
 clockwork
@@ -966,6 +968,7 @@ rc-s-labyrinth
 rc-s-towerdefense
 reactivist
 real-adrenaline-quad
+recon
 reconnaissance
 rectal-racers
 red-death
@@ -1234,7 +1237,6 @@ tb-mesa-gold
 tb-tag
 tbtest1
 tb-zombie13
-tdm-classicdawn
 technium
 teleporter-down
 tension
