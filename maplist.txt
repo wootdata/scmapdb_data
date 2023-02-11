@@ -1197,6 +1197,7 @@ sven-april-fools
 sven-coop-adventure
 sven-co-op-half-life:escape-mod
 sven-co-op-holiday-island
+sven-coop-in-prison-01
 sven-co-op-play
 svencoop-rpg
 sven-co-op-training-course
