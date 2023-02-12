@@ -1183,10 +1183,10 @@ subway-train
 suicide-run
 super-monkey-ball
 surf-redline
+surf-ski-2
 surface-ex-tension
 surface-ex-tension-2:extended-resistance
 surface-run
-surf-ski-2
 survivor
 suspension
 sv-birthday
