@@ -17,6 +17,7 @@ a-day-in-hell
 a-soldier-s-tale
 abandoned
 abelkerky
+abeyance
 absolute-redemption-for-sven-co-op
 access-point
 ace-football
@@ -100,6 +101,7 @@ attack-defend
 attack-wave
 auspices
 automap
+autonomy-lost
 avlego
 ayakashi-banquet
 azac
@@ -135,7 +137,6 @@ between-the-lines
 between-two-worlds
 big-cave-2
 bigcoopmap
-big-penis
 big-room-guy-2
 big-room-guy-3
 big-scientists-2017
@@ -412,6 +413,7 @@ escape
 escape-2
 escape-3
 escape-mutant
+escape-from-doom-town
 escape-plan
 escape-the-town
 e-t-f
