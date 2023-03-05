@@ -333,6 +333,7 @@ default-park
 defence-aliens
 keen-explore
 defend
+defend-base-3
 defend-the-fort
 defense-map
 degrees
