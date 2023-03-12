@@ -557,6 +557,7 @@ stackdeath-complex
 half-life:uplink
 half-pipe
 half-quake-amen-coop
+halfquake-duology
 half-rats:a-fever-dream
 halloween-blackwoods
 halloween-cemetery
