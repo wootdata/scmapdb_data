@@ -787,6 +787,7 @@ mini-race
 minimicus-2017
 minotaur-maze
 mirage
+mirrorlobby
 misery
 mision73
 mistake-1-coop
