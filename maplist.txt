@@ -1058,6 +1058,7 @@ sc-fear
 sc-worlds
 sc1
 sc5x-bonus
+sven-coop-in-prison-01
 scientist-guard
 scientist-guard-2
 scientist-run
@@ -1207,7 +1208,6 @@ sven-april-fools
 sven-coop-adventure
 sven-co-op-half-life:escape-mod
 sven-co-op-holiday-island
-sven-coop-in-prison-01
 sven-co-op-play
 svencoop-rpg
 sven-co-op-training-course
