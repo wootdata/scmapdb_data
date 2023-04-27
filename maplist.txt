@@ -991,6 +991,7 @@ redmarket
 red-s-war-cooperative-mode
 reflux
 rescue
+rescue-9-1-freeman
 rescue-by-stan
 resident-evil-2-mini-game
 resident-evil:biohazard
