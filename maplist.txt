@@ -708,6 +708,7 @@ landworld
 last-castle
 last-stand
 last-unic
+laundromat
 lavaking
 legend-of-zelda
 leprechaun
