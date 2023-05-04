@@ -1016,11 +1016,13 @@ retrieval
 retrohunt
 return-to-kalike
 reverse-half-life
+reverse-half-life-single
 reverse-they-hunger
 reverse-turret-fortress
 reviviscence
 rhapsody
 richard-boderman
+richard-boderman-alternate
 rickshaw
 ricochet
 huntbgin
