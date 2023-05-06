@@ -108,6 +108,7 @@ awaken
 ayakashi-banquet
 azac
 azure-sheep
+azure-sheep-merged
 back-to-xen-1
 back-whispers
 backattack
