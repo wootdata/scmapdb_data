@@ -1396,6 +1396,7 @@ uboamedley
 uboapack
 ultimate-attack
 ultra-monster
+umbrella
 undeath
 opposing-force:under-the-black-moon
 underground
