@@ -961,6 +961,7 @@ quake-2-custom-deathmatch-maps
 quake-for-sven-co-op
 quarter
 question
+quiet-neighborhood
 r11
 race0711
 radix
