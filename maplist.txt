@@ -482,6 +482,7 @@ fuchs-halloween
 fun
 fun-fun-fun
 fun-land
+fun-map
 fun-robo-run
 fun-waterpark
 fun-zone
