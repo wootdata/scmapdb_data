@@ -544,6 +544,7 @@ grunts
 grunts-2
 grunt-s-course
 grunts-invade
+grunt-s-party
 gruntwar
 gruntwar-2
 gun-shop
