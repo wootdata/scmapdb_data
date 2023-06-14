@@ -109,8 +109,8 @@ avlego
 awaken
 ayakashi-banquet
 azac
-azure-sheep
 azure-sheep-merged
+azure-sheep
 back-to-xen-1
 back-whispers
 backattack
@@ -1010,8 +1010,8 @@ resident-evil:directors-cut
 resident-evil:outbreak
 resident-evil:the-aftermath
 resident-evil:the-awakening
-residual-life
 residual-life-1-9
+residual-life
 residual-point
 residue
 resistance
