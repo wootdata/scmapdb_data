@@ -486,6 +486,7 @@ fun-land
 fun-robo-run
 fun-waterpark
 fun-zone
+funny-apple-hunt
 f-zero-x
 galleon
 gameover
