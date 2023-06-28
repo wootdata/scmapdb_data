@@ -1196,6 +1196,7 @@ starcraft-2
 starship-troopers
 starship-troopers-bug-hunt
 starshiptroopers-minigame
+stfu-and-climb
 stixsworld
 stixsworld-2
 storage-area-2
