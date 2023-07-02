@@ -715,6 +715,7 @@ landworld
 last-castle
 last-stand
 last-unic
+last-life
 laundromat
 lavaking
 legend-of-zelda
