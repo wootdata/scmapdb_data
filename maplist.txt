@@ -995,7 +995,6 @@ real-adrenaline-quad
 recon
 reconnaissance
 rectal-racers
-red-death
 red-fang
 red-pyramide
 redcity-hotel
@@ -1108,6 +1107,7 @@ secretcity-3
 secretcity-4
 secretcity-5
 secretcity-6
+secretcity-saga-remastered
 sector-e
 sectore
 sectore-levels
