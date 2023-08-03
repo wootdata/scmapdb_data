@@ -602,6 +602,7 @@ hightopmission
 hill-air-force-base
 hivepush
 hl-comando
+hl2-classic-ravenholm
 hldm-co-op-carnage:crossfire
 hlm-mission
 cs-hokkaido
