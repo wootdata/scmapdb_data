@@ -217,6 +217,7 @@ castle-defence
 castle-map
 castlevania
 catalyst
+catharsis
 cemetery
 central-assault
 central-bunker
