@@ -1,3 +1,4 @@
+hl2-classic-ravenholm
 101-grunts
 1-6
 1742
@@ -604,7 +605,6 @@ hightopmission
 hill-air-force-base
 hivepush
 hl-comando
-hl2-classic-ravenholm
 hldm-co-op-carnage:crossfire
 hlm-mission
 cs-hokkaido
