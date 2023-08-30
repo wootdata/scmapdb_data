@@ -581,8 +581,7 @@ hammerhead
 hamsters
 haphazard
 haunted
-haunted-souls-a
-haunted-souls-b
+haunted-souls
 haywire
 hazmat
 headcrabs-maze
