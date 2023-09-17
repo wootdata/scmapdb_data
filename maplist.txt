@@ -419,6 +419,7 @@ entmap-robootto
 entmap-sven-co-op-5-x-a13
 entmap-tc-v3
 enttimappi
+episode-secret-weapon
 ertys-labyrint
 escalator-up
 escape
