@@ -696,6 +696,7 @@ keen-race
 keen-race-2017
 keenzonea9
 keensolarsystem
+goldsource-scary-dark-house
 kikiippatsun
 kilionny
 kill-rusty
@@ -1083,7 +1084,6 @@ sc-fear
 sc-worlds
 sc1
 sc5x-bonus
-goldsource-scary-dark-house
 sven-coop-in-prison-01
 scientist-guard
 scientist-guard-2
