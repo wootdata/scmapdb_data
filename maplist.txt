@@ -169,6 +169,7 @@ blastcorpse
 cs-blitzwar
 bluecell-puzzle
 bmtcoop
+bomberman-64-blue-resort
 bomberman-64
 bomberman-battles
 boomario-pacman
