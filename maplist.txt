@@ -1091,6 +1091,7 @@ scientist-guard-2
 scientist-run
 scientist-save
 scientist-smasher
+scientists
 scskillz-2
 seaside-serie
 search-n-destroy
@@ -1283,6 +1284,7 @@ technium
 teleporter-down
 tension
 terminator-run
+test
 tetris
 tetris:fan-chapter
 the-back-door
