@@ -567,6 +567,7 @@ habitat
 habitat-2
 half-life-single-player-map-portal
 halflifuro
+half-life:absolute-zero
 half-life-bar-canteen
 half-life-hazard-course
 half-life-lobby
