@@ -799,6 +799,7 @@ mg386-key
 mg386-mission2
 mg386-monsters2
 miib-clubhouse
+military-duty
 military-strike
 kr-mine-defence
 minecraft
