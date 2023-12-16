@@ -1288,6 +1288,7 @@ tension
 terminator-run
 tetris
 tetris:fan-chapter
+tfc-crossfire
 the-back-door
 the-better-than-best-entmap
 the-better-than-that-entmap
