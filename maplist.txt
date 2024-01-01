@@ -214,6 +214,7 @@ captured
 carnival
 carnival-2
 case-closed
+casino-vulcano
 castle-defence
 castle-map
 castlevania
