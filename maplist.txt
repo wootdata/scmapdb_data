@@ -211,6 +211,7 @@ campfire
 canal
 canyondoom-4
 captured
+caramel
 carnival
 carnival-2
 case-closed
@@ -432,6 +433,7 @@ escape-from-doom-town
 escape-plan
 escape-the-town
 e-t-f
+etherlab
 evermore
 everwar
 base-evil-misterio-loquendero
@@ -588,6 +590,7 @@ haunted
 haunted-souls
 haywire
 hazmat
+headcrab-5324613-hp
 headcrabs-maze
 hq
 heat
@@ -603,6 +606,7 @@ hezus-tomb
 hgrunt-defense
 hidden
 hiddentb
+hide-and-seek
 hidoi-map
 high-rise
 hightopmission
@@ -728,6 +732,7 @@ last-unic
 last-life
 laundromat
 lavaking
+legend-of-myst-jump
 legend-of-zelda
 leprechaun
 letongue-apocalypse
