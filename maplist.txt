@@ -917,6 +917,7 @@ pink
 pizza-ya-san
 planet3c
 platformatic
+platoon
 player-sanctuary
 player-tower
 pointless
