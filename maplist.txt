@@ -919,6 +919,7 @@ pink
 pizza-ya-san
 planet3c
 platformatic
+platforms
 platoon
 player-sanctuary
 player-tower
