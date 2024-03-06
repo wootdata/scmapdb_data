@@ -1259,6 +1259,7 @@ sven-co-op-holiday-island
 sven-co-op-play
 sven-co-op-training-course
 sven-coop-adventure
+sven-coop-c2ac1-series-old
 sven-coop-in-prison-01
 sven-dust2
 sven-operatives
