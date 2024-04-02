@@ -1170,6 +1170,7 @@ skylined
 skyscraper-for-sven-co-op
 slaughter-house
 sledge
+slumber
 smalltown
 smash-tv
 snake
