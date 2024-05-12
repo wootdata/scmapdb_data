@@ -877,6 +877,7 @@ op4-two
 operasyon
 operation-alpha
 operation-barbarossa
+operation-black-thunder
 operation-bridge-is-down
 operation-retribution
 operation-retribution-remake
