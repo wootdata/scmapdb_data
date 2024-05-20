@@ -982,6 +982,7 @@ pvp-snow
 pvp-subtransit
 pvp-sv-crossfire
 pvp-the-beach
+pvp-torneo-de-cell
 pvp-uboa
 pvp-warhouse
 pvp-zombie-battleground
