@@ -1477,6 +1477,7 @@ visitors
 volt2
 votemap
 votemap-2
+walkthrough-frosty
 wanted
 war
 war-field
