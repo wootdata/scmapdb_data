@@ -1271,6 +1271,7 @@ sven-co-op-training-course
 sven-coop-adventure
 sven-coop-c2ac1-series-old
 sven-coop-in-prison-01
+sven-cs-office
 sven-dust2
 sven-operatives
 sven-party
