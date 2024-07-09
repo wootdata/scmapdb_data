@@ -841,6 +841,7 @@ music
 muumimaaliset
 mystic-radar
 nagafens-lair
+natural-selection:escape
 need-for-energy
 neptune-labs
 never
@@ -1271,6 +1272,7 @@ sven-co-op-training-course
 sven-coop-adventure
 sven-coop-c2ac1-series-old
 sven-coop-in-prison-01
+sven-cs-assault
 sven-cs-office
 sven-dust2
 sven-operatives
