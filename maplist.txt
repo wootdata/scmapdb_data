@@ -1220,6 +1220,7 @@ sonic-the-hedgehog-2
 sotano
 soul-run
 source-of-life
+space-monastery
 space-monkeys
 space-prisoner
 space-surf
