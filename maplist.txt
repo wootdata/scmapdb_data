@@ -191,6 +191,7 @@ breakdown-heist
 breakfree
 breakfree-2
 breakfree-3
+breakout
 breakout-extended
 bridge
 bridge-the-gap
