@@ -165,6 +165,7 @@ black-mesa-special-tactics-sector
 black-mesa:getaway-plan
 black-operations:special-forces
 black-white
+blackmesa-training-simulation:resonance-cascade
 blackops
 blastcorpse
 bluecell-puzzle
