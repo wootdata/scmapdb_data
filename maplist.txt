@@ -1191,6 +1191,7 @@ skate-city
 skill-arena-wd
 skill-jumping
 skillcourse
+skillrun-3
 skycrap
 skylined
 skyscraper-for-sven-co-op
