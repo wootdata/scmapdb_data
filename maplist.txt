@@ -948,6 +948,7 @@ pointless
 poke646-merged
 poke646-poke646:vendetta-co-op
 polar-rescue
+pool-day
 poolarea
 portal-house
 portal-house-remastered
