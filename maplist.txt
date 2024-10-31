@@ -781,6 +781,7 @@ man-s-answer
 mana-house
 marines
 mario-keys
+mario-puzzle
 marioland-1:greenblock-zone
 marioland-2:waterville-zone
 marioland-3:bowser-s-domain
