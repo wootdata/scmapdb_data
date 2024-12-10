@@ -591,6 +591,9 @@ haphazard
 hatshepsut-from-serious-sam-alpha
 haunted
 haunted-souls
+haunted-souls-a
+haunted-souls-b
+haunted-souls-c
 haywire
 hazardous-course-2
 hazmat
@@ -1080,6 +1083,7 @@ reverse-they-hunger
 reverse-turret-fortress
 reviviscence
 rhapsody
+richard-boderbot
 richard-boderman
 richard-boderman-alternate
 rickshaw
