@@ -295,6 +295,7 @@ crusades
 crusher
 crying-lamb
 cryo-city
+cryo-origins:wayne
 cryo-underground
 cryocube
 crystal
@@ -972,6 +973,7 @@ porton
 postal-x
 pouet
 pow-in-the-year-3910
+power-canyon
 power-node-complex-infiltration
 preperation-x
 preperation-y
