@@ -753,6 +753,11 @@ legend-of-myst-jump
 legend-of-zelda
 leprechaun
 letongue-apocalypse
+letongue-base
+letongue-biohazard
+letongue-galaxy
+letongue-portales
+letongue-sc2
 levelkas-2
 lexm
 liberation
@@ -977,6 +982,7 @@ projekt-einstein
 propanic
 protozoaire
 prozerver2
+prueba-escape
 psychic-agog
 psyko
 public-security
@@ -1384,6 +1390,7 @@ the-house-of-secrets
 the-hunter
 the-infected
 the-invasion
+the-jungle
 the-lake
 the-long-night
 the-mansion
