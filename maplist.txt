@@ -1146,6 +1146,7 @@ sc-tl-rpg-v1-final-v4
 sc-tl-secrettask
 sc-tl-sky-fun-moon-final
 sc-tl-train-war-final-v1
+sc-ts-lobby
 sc-underground
 sc-unreal
 sc-worlds
