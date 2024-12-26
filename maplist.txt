@@ -584,6 +584,7 @@ halfquake-duology
 halloween-blackwoods
 halloween-cemetery
 halloween-construction
+halloween-haunted-house
 halloween-hospital
 halo
 hammerhead
@@ -860,6 +861,7 @@ mostwanted
 mountain
 mountain-pass
 multifield-scyberscazer
+murder
 murks
 music
 muumimaaliset
