@@ -256,6 +256,7 @@ clockwork
 clone-lab
 club-2000
 club-kill
+cocyx-box
 coldburn
 colonyx
 colt-s-house
@@ -1038,6 +1039,7 @@ r11
 rabid-snarks-votemap
 race0711
 radix
+rage-3
 ragemap
 ragemap-2012
 ragemap-2016
@@ -1243,6 +1245,7 @@ soccer
 soiled
 someplace-else
 sonic
+sonic-2
 sonic-the-hedgehog
 sonic-the-hedgehog-2
 sotano
