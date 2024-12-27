@@ -312,6 +312,7 @@ cybertech-elevator
 cybertrain
 cyborg-keks-quantum-fuzziness
 cyclone
+damned-map-2
 danger-of-collapse-part-1
 danger-zone
 dangerous-rooms
@@ -897,6 +898,7 @@ nuke
 oberon
 oblivious
 obsidian-tangle
+oddity
 of-boot-camp
 office
 office-1
