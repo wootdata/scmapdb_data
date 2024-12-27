@@ -650,6 +650,7 @@ hunt-the-haunt
 huntbgin
 hunted
 hw-zombie
+hyperior-moss
 hyppyriz
 ice-grind
 icearena
