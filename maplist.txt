@@ -1401,6 +1401,7 @@ the-experiment
 the-fall-of-me-special
 the-fox-halloween-2022
 the-horror
+the-hotel
 the-house-of-secrets
 the-hunter
 the-infected
