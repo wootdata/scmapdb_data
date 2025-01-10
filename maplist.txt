@@ -66,6 +66,7 @@ annihilation
 another-day-at-the-office
 another-unit
 another-unit-remake-part-1
+antares-2
 apache
 apache-2
 apache-battle
@@ -329,6 +330,7 @@ dark-nebula
 dark-seekers
 dark-voyage
 darkcity
+darkland
 dav-train
 dawn-of-the-dead-minigame
 dbjr
@@ -1172,6 +1174,7 @@ scientist-run
 scientist-save
 scientist-smasher
 scientists
+scots-doom-nukeplant
 scskillz-2
 scv-instalaciones-invadidas
 search-n-destroy
