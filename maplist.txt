@@ -262,6 +262,7 @@ club-kill
 cocyx-box
 coldburn
 colonyx
+colour-skills
 colt-s-house
 combined
 coming-over-obi
