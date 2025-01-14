@@ -257,6 +257,7 @@ cliffside
 climbers
 clockwork
 clone-lab
+clouds
 club-2000
 club-kill
 cocyx-box
