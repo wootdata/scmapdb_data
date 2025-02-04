@@ -1334,6 +1334,7 @@ sven-co-op-half-life:escape-mod
 sven-co-op-holiday-island
 sven-co-op-play
 sven-co-op-training-course
+sven-co-op-zombie-edition
 sven-coop-adventure
 sven-coop-c2ac1-series-old
 sven-cs-assault
