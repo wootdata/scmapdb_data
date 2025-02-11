@@ -388,6 +388,7 @@ devious-trials
 dial-a-for-arson
 die
 diego-land-beta
+dig
 dirtpath
 disco
 disco-party
@@ -949,6 +950,7 @@ outjail
 outpost-1-2
 outpost-3
 overrun
+oxycontinent-cybernetic-colony
 ozku-general-discussion
 pack-animals
 pacman
@@ -1501,6 +1503,7 @@ triton
 troll-world
 trondheim
 tropical
+tubers
 tunnel
 tunnel-vision
 tuntis-black-mesa-defence
