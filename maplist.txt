@@ -409,6 +409,7 @@ dropzone
 drug-barons
 duck-hunt
 duke-nukem-3d-episode-1-l-a-meltdown
+duke-nukem-3d-remastered
 dukemap
 duno
 dupa
