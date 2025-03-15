@@ -502,6 +502,7 @@ fragers-rock
 francium-poolside-iv
 freakle-3
 freejump
+freeman-s-escape
 freeman-s-house
 freeman-s-revenge
 frightmanor
