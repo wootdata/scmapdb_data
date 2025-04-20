@@ -276,6 +276,7 @@ command-conquer:defence
 commandandconquer
 complex
 complex-perfect
+con-force
 conect
 confuse
 conspiracy
