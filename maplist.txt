@@ -1336,6 +1336,7 @@ surface-run
 survivor
 suspension
 sv-birthday
+sv-explosion
 sv-mountain-remake
 sv-question
 sven-april-fools
