@@ -1356,6 +1356,7 @@ sven-coop-c2ac1-series-old
 sven-cs-assault
 sven-cs-office
 sven-dust2
+sven-life
 sven-operatives
 sven-party
 svencontra2
