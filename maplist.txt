@@ -1038,6 +1038,7 @@ pvp-ag-crossfire-2-and-4
 pvp-assault
 pvp-awp-map
 pvp-aztec
+pvp-bounce
 pvp-caged
 pvp-city
 pvp-conflict-2
