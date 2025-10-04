@@ -114,6 +114,7 @@ avp
 awaken
 ayakashi-banquet
 azac
+aztec
 azure-sheep
 azure-sheep-merged
 back-to-xen-1
