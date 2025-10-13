@@ -1482,6 +1482,7 @@ tweak-s-party-village
 twhl-tower
 two-dimensional
 typical-disaster
+u-life
 ub-iseki
 ub-megaman
 ub-nagoya
