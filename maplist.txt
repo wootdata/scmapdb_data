@@ -353,6 +353,7 @@ deadly-race
 deadthings
 death
 death-mission
+death-wish
 deathmatch-classic
 deathroll-puzzle
 deathrun-droide
