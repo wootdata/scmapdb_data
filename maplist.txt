@@ -258,6 +258,7 @@ civil-defence
 ck-osprey
 ck-stadium
 classic-arcade-first-person-shooter
+cleaner-s-adventures-for-sven-co-op
 cliffside
 climbers
 clockwork
