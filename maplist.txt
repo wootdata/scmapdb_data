@@ -652,6 +652,7 @@ horde
 horde-22
 horror-1
 horsecock-7
+host-error
 hostage
 hostage-2
 hostile-planet
