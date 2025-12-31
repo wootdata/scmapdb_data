@@ -1538,6 +1538,7 @@ visitors
 volt2
 votemap
 votemap-2
+walkthrough-egonhunt
 walkthrough-frosty
 wanted
 war
