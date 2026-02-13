@@ -1279,6 +1279,7 @@ stadium-2
 stadium-3
 stadium-4
 stalk-lab
+stalkyard
 star-trek
 starbattle
 starcraft
