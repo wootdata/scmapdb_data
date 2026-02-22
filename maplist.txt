@@ -360,7 +360,6 @@ deadly-race
 deadthings
 death
 death-mission
-deathmatch-classic
 deathroll-puzzle
 deathrun-droide
 pvp-deathrun-straight
@@ -608,7 +607,6 @@ stackdeath-complex
 half-life:uplink
 half-pipe
 half-quake-amen-coop
-halfquake-duology
 half-rats:a-fever-dream
 halloween-blackwoods
 halloween-cemetery
