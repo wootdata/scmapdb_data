@@ -897,6 +897,7 @@ normall
 nothing
 nova-space-station
 nuclear
+nuclear-power-plant
 nuclear-winter
 nuearth
 nuke
@@ -1412,6 +1413,7 @@ the-invasion
 the-jungle
 the-lake
 the-long-night
+the-lost-world
 the-mansion
 the-military-base
 the-mission
