@@ -743,6 +743,7 @@ killer-s-castle
 killer-s-part-maps
 king-kong-2
 kr-mine-defence
+krypton
 ksct
 ksct-remake
 ktivt
