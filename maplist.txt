@@ -242,6 +242,7 @@ central-bunker
 central-bunker-remake
 chan-toybox
 chancars
+chaos-theory
 chenbox
 chess
 chill-ride
