@@ -878,6 +878,7 @@ multifield-scyberscazer
 murder
 murks
 music
+musicmaker
 mystic-radar
 nagafens-lair
 natural-selection:escape
