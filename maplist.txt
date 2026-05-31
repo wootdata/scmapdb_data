@@ -633,6 +633,7 @@ hezus-birthday-map-2003
 hezus-tomb
 hgrunt-defense
 hidden
+hidden-evil
 hiddentb
 hide-and-seek
 hidoi-map
@@ -1101,6 +1102,7 @@ residual-life-1-9
 residual-point
 residue
 resistance
+resistance-1-3
 ressya-no-tabi-the-train-travel
 restriction
 retard
