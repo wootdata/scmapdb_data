@@ -233,6 +233,7 @@ case-closed
 casino-vulcano
 castle-defence
 castle-map
+castle-rat
 castlevania
 catalyst
 catharsis
