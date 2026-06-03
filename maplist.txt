@@ -230,6 +230,7 @@ captured
 caramel
 carnival
 carnival-2
+carpodacus-carnage
 case-closed
 casino-vulcano
 castle-defence
@@ -613,6 +614,7 @@ halo
 hammerhead
 hamsters
 haphazard
+hardcore-gaming
 hatshepsut-from-serious-sam-alpha
 haunted
 haunted-souls-a
@@ -723,6 +725,7 @@ jurassic-park-leon
 juren
 justatest
 justcause
+justify-this
 justzombies
 k-thegame
 k-thegame2
@@ -1465,6 +1468,7 @@ tkou
 to-hell
 toad-snatch
 tomb-of-nick-cage
+tomb-raider-1
 too-easy
 too-hard-map
 toon-run
