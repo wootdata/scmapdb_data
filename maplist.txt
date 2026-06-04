@@ -638,6 +638,7 @@ hezus-tomb
 hgrunt-defense
 hidden
 hidden-evil
+hidden-intel
 hiddentb
 hide-and-seek
 hidoi-map
