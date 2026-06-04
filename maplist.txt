@@ -854,6 +854,7 @@ miib-clubhouse
 military-duty
 military-strike
 minecraft
+minecraft-wild-ride
 mini-golf
 mini-race
 minimicus-2017
