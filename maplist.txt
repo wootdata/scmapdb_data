@@ -534,6 +534,7 @@ gameover2
 garg
 garg-and-icky-hunt
 garg-arena
+garg-boxing
 garg-fight
 garg-football
 garg-lab
