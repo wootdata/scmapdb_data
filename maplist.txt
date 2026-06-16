@@ -1414,6 +1414,7 @@ the-border
 the-bunker
 the-cataclysm
 the-challenge
+the-challenger-deep-2
 the-city
 the-climb
 the-climb-2
