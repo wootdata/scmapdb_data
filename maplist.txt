@@ -493,6 +493,7 @@ fear
 feral-hogs
 field-intensity
 fieldmaze
+fight-for-life
 fight-mission-aggressive-place
 final-fight
 fire-temple
