@@ -310,6 +310,7 @@ crazy-walker
 crazylab
 crazyteleport
 crime-city
+crime-city-2
 crisis-1
 crisis-2
 crood-coop
