@@ -291,6 +291,7 @@ complex-perfect
 con-force
 concrete-deathmatch
 conect
+confronted-with-consequences
 confuse
 conspiracy
 contact
@@ -331,6 +332,7 @@ crystal-mission
 cs-blitzwar
 cs-hokkaido
 cube-zero
+cwcpack-initiative
 cyberjunk
 cybernetic-moon
 cyberspy
