@@ -484,6 +484,7 @@ face
 facing-worlds
 factions
 fail-mountain
+failure
 fall-guys
 fallback:fire
 fallback:ice
@@ -521,6 +522,7 @@ freejump
 freeman-s-escape
 freeman-s-house
 freeman-s-revenge
+freemans-tomb
 frightmanor
 frogger
 frontline
@@ -717,6 +719,7 @@ invasion:frozen
 invisible-zombies
 io
 iron-io-shocksiege
+irreality
 island
 island-2
 iss-555-cargo
