@@ -909,6 +909,7 @@ murder
 murks
 music
 musicmaker
+mystery-house
 mystic-radar
 nagafens-lair
 natural-selection:escape
