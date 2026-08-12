@@ -448,6 +448,7 @@ earthquake-test-center-ii
 eastbase
 easymap
 ectopit
+edge-of-darkness
 edificio-aislado
 egypt
 egypt-2
