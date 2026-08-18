@@ -958,6 +958,7 @@ operation-alpha
 operation-barbarossa
 operation-black-thunder
 operation-bridge-is-down
+operation-epstein-fury:island-force
 operation-gargantua
 operation-mirra
 operation-retribution
