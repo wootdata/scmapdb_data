@@ -369,6 +369,7 @@ deadthings
 death
 death-mission
 death-wish
+death-wish-bonus
 deathroll-puzzle
 deathrun-droide
 decay
