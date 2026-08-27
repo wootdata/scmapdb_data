@@ -618,6 +618,7 @@ half-life-hazard-course
 half-life-lobby
 half-life-single-player-map-portal
 half-life:echoes
+half-life:insecure
 half-life:uplink
 half-pipe
 half-quake-amen-coop
