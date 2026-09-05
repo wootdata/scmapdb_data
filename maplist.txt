@@ -623,6 +623,7 @@ half-life:uplink
 half-pipe
 half-quake-amen-coop
 half-rats:a-fever-dream
+half-rats:redridge
 halflifuro
 halloween-blackwoods
 halloween-cemetery
