@@ -1030,6 +1030,7 @@ preperation-y
 prisoned
 prisoner-of-event
 prisonriot-erosion
+prize
 project-orion
 project-quantum-2017
 project-quantum-leap
