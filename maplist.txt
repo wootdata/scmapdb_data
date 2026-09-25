@@ -55,6 +55,7 @@ alien-defense
 alien-die
 alien-die-2
 alien-fight
+alien-gate
 alien-planet
 alien-ship-1
 alien-shooter-1-demo-stage
@@ -237,6 +238,7 @@ carpodacus-carnage
 case-closed
 casino-vulcano
 castle-defence
+castle-disposed
 castle-map
 castle-rat
 castlevania
@@ -1574,6 +1576,7 @@ underground
 underground-shelter
 underhalls
 underrain
+underwater-adventure
 underworld
 unholy
 uni
