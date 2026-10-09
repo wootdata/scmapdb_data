@@ -1165,6 +1165,7 @@ robo-wars:episode-1
 rooftop-warfare-original
 rooftop-warfare-remake
 rooms
+route-canal
 row-jump
 royal-soldier-s-zombie-survival
 royale
