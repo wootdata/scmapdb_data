@@ -464,6 +464,7 @@ entmap-house
 entmap-sven-co-op-5-x-a13
 entmap-tc-v3
 epidauro-map
+episode-power-plant-and-china
 episode-secret-weapon
 ertys-labyrint
 escape
