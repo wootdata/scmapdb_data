@@ -616,6 +616,7 @@ gvsg
 gyudon-addict
 habitat
 habitat-2
+hackers
 half-life-2-coast-xmas
 half-life-2-prison-02
 half-life-bar-canteen
