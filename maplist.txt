@@ -802,6 +802,7 @@ last-life
 last-stand
 laundromat
 lavaking
+leave-from-black-mesa
 left-life:extreme-survival
 legend-of-myst-jump
 legend-of-zelda
