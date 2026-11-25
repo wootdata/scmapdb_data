@@ -868,6 +868,7 @@ mega-monster-madness-v2
 mega-monster-massacre
 mega-monster-massacre-2
 megamaze
+mel-soaring-2:star-rancor
 memento-city-i
 mercury-landing
 metal-bar
@@ -1189,6 +1190,7 @@ rust
 s28
 sahara
 samps-fun
+sand-scroll
 sandpit
 sandstone
 sandstorm-defence-trilogy
